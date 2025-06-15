@@ -7137,6 +7137,9 @@
   "/stockedge/daily-updates/news": [
     "Rjnishant530"
   ],
+  "/storm/channel/:id?": [
+    "dzx-dzx"
+  ],
   "/storm/:category?/:id?": [
     "nczitzk"
   ],
@@ -8033,6 +8036,9 @@
   ],
   "/wanqu/news": [
     "Fatpandac"
+  ],
+  "/warhammer-community/news": [
+    "TonyRL"
   ],
   "/warp/blog": [
     "cscnk52"
